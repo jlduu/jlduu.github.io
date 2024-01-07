@@ -5,4 +5,4 @@ inline: true
 related_posts: false 
 ---
 
-  A paper is accepted by *IEEE Transactions on Engineering Management* :sparkles: :smile:
+A paper is accepted by *IEEE Transactions on Engineering Management* :sparkles: :smile:
