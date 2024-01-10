@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper is accepted by *OPSEARCH.* :sparkles: :smile:
+A paper is accepted by *OPSEARCH.* :sparkles: :smile:
