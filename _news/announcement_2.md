@@ -5,4 +5,4 @@ inline: false
 related_posts: false
 ---
 
-Our paper is accepted by *Journal of Modelling in Management* :sparkles: :smile:
+A paper is accepted by *Journal of Modelling in Management* :sparkles: :smile:
