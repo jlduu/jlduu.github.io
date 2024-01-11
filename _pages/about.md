@@ -9,9 +9,9 @@ profile:
   image: juliandu.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>西北工业大学管理学院（长安校区）</p>
-    <p>西安, 陕西 710072</p>
+    <p>办公室555</p>
+    <p>管理学院</p>
+    <p>西北工业大学（长安校区）</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
