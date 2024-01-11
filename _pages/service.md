@@ -3,19 +3,23 @@ layout: page
 permalink: /service/
 title: service
 description:
-nav: false
+nav: true
 nav_order: 4
 ---
 
-## Academic Editors
+### Academic Editors
 
-* _GreySystem.org_ 🔗[[LINK](https://greysystem.org/9-contact-us/)]
+* **EBM:** _Grey Systems: Theory and Application_ 🔗[[LINK](https://www.emeraldgrouppublishing.com/journal/gs)]
 * **EBM:** _International Journal of Grey Systems_ 🔗[[LINK](http://publish.thescienceinsight.com/index.php/ijgs/about/editorialTeam)]
 * **EBM:** _Management Science and Business Decisions_ 🔗[[LINK](http://publish.thescienceinsight.com/index.php/msbd/about/editorialTeam)]
+* _GreySystem.org_ 🔗[[LINK](https://greysystem.org/9-contact-us/)]
 
-## Journal Peer Review
+### Journal Peer Review
 
-* _IEEE Transactions on Systems, Man, and Cybernetics_
+* _European Journal of Operational Research_
+* _Computers & Operations Research_
+* _IEEE Transactions on Systems, Man and Cybernetics: Systems_
+* _IEEE Transactions on Fuzzy Systems_
 * _IEEE Transactions on Reliability_
 * _Technological Forecasting and Social Change_
 * _Information Fusion_
